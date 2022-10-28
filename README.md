@@ -1,6 +1,6 @@
 # YelpCamp
 
-A Node.js web application from the Udemy course - https://www.udemy.com/course/the-web-developer-bootcamp/
+A Node.js web application from the Udemy course by Colt Steele - https://www.udemy.com/course/the-web-developer-bootcamp/
 Concepts covered includes: 
 •	HTML5
 •	CSS3
